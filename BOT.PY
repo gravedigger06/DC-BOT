@@ -24,4 +24,4 @@ async def I_would_like_to_get_funny_memes_regarding_the_climate_change(ctx):
         picture = discord.File(f)
     await ctx.send(file = picture)
 
-bot.run("MTExMjgzNjQxNjMyNjYxMDk0NA.GurPn2.LftayXnu43epXgB_57FQNWSHjbYsjSL0QBCrXU")
+bot.run("INSERT YOUT TOKEN HERE")
