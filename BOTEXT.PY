@@ -38,4 +38,4 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = MyClient(intents=intents)
-client.run('MTExMjgzNjQxNjMyNjYxMDk0NA.GurPn2.LftayXnu43epXgB_57FQNWSHjbYsjSL0QBCrXU')
+client.run('INSERT YOUR TOKEN HERE')
